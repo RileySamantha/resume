@@ -1,0 +1,135 @@
+#page{
+	background-color: #A9CCE3;
+	/*top: 50px;
+	bottom: 50px;
+	left: 50px;
+	right: 50px;*/
+	width: 1050px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#heading{
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	border-bottom: 0px;
+	background-color: #B7950B;
+}
+
+#image {
+	border: 5px solid #F1C40F;
+	position: relative;
+	right:-600px;
+	top: -120px;
+	width: 200px;
+	height: 250px;
+	/* background-color: #F1C40F; */
+	-ms-transform: rotate(-7deg);
+	-webkit-transform: rotate(-7deg);
+	transform: rotate (-7deg);
+}
+#contact {
+	position: relative;
+	top: -300px;
+	height: 350px;
+	width:450px;
+	font-size: 20px;
+	font-style: arial black;
+	margin-left: 50px; 
+}
+#details	{
+	position: relative;
+	top: -550px;
+	height: 60px;
+	width:500px;
+	font-size: 20px;
+	font-family: "Arial Black";
+	font-style: bold;
+	font-size: 18px;
+	padding-left: 50px;
+	color: #013ADF;
+}
+
+#edu1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 500px;
+	border-right: 2px solid #B7950B;
+	padding-right: 50px;
+	padding-bottom: 80px;
+	padding-left: 280px;
+	
+}
+#edu2{
+	position: relative;
+	right:-400px;
+	top: -385px;
+	
+}
+#skills1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 670px;
+	border-right: 2px solid #B7950B;
+	padding-right: 51px;
+	padding-bottom: 80px;
+	padding-left: 320px;
+}
+#skills2{
+	position: relative;
+	right: -400px;
+	top: -360px;
+}
+#exp1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 815px;
+	border-right: 2px solid #B7950B;
+	padding-right: 43px;
+	padding-bottom: 80px;
+	padding-left: 280px;
+}
+#exp2{
+	position: relative;
+	right:-400px;
+	top: -395px;
+}
+#hob1{
+	position: absolute;
+	font-weight: bold;
+	left: -50px;
+	font-size: 20px;
+	top: 960px;
+	border-right: 2px solid #B7950B;
+	padding-right: 43px;
+	padding-bottom: 150px;
+	padding-left: 306px;
+}
+#hob2{
+	position: relative;
+	right:-395px;
+	top: -330px;
+}
+/* #ref1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 1185px;
+	border-right: 1px solid white;
+	padding-right: 43px;
+	padding-bottom: 80px;
+	padding-left: 291px;
+}
+#ref2{
+	position: relative;
+	right:-400px;
+	top: -280px;
+} */
