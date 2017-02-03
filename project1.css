@@ -4,7 +4,7 @@
 	bottom: 50px;
 	left: 50px;
 	right: 50px;*/
-	width: 1050px;
+	width: 1100px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -20,7 +20,7 @@
 #image {
 	border: 5px solid #F1C40F;
 	position: relative;
-	right:-600px;
+	right:-700px;
 	top: -120px;
 	width: 200px;
 	height: 250px;
@@ -54,7 +54,7 @@
 #edu1{
 	position: absolute;
 	font-weight: bold;
-	left: 90px;
+	left: 70px;
 	font-size: 20px;
 	top: 500px;
 	border-right: 2px solid #B7950B;
@@ -72,7 +72,7 @@
 #skills1{
 	position: absolute;
 	font-weight: bold;
-	left: 90px;
+	left: 70px;
 	font-size: 20px;
 	top: 670px;
 	border-right: 2px solid #B7950B;
@@ -88,7 +88,7 @@
 #exp1{
 	position: absolute;
 	font-weight: bold;
-	left: 90px;
+	left: 70px;
 	font-size: 20px;
 	top: 815px;
 	border-right: 2px solid #B7950B;
@@ -104,7 +104,7 @@
 #hob1{
 	position: absolute;
 	font-weight: bold;
-	left: -50px;
+	left: -70px;
 	font-size: 20px;
 	top: 960px;
 	border-right: 2px solid #B7950B;
