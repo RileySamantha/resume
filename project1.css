@@ -54,7 +54,7 @@
 #edu1{
 	position: absolute;
 	font-weight: bold;
-	left: 90px;
+	left: 70px;
 	font-size: 20px;
 	top: 500px;
 	border-right: 2px solid #B7950B;
@@ -72,7 +72,7 @@
 #skills1{
 	position: absolute;
 	font-weight: bold;
-	left: 90px;
+	left: 70px;
 	font-size: 20px;
 	top: 670px;
 	border-right: 2px solid #B7950B;
@@ -88,7 +88,7 @@
 #exp1{
 	position: absolute;
 	font-weight: bold;
-	left: 90px;
+	left: 70px;
 	font-size: 20px;
 	top: 815px;
 	border-right: 2px solid #B7950B;
@@ -104,7 +104,7 @@
 #hob1{
 	position: absolute;
 	font-weight: bold;
-	left: -50px;
+	left: -70px;
 	font-size: 20px;
 	top: 960px;
 	border-right: 2px solid #B7950B;
